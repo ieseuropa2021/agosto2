@@ -1,2 +1,2 @@
-# primera línea de un 
+# primera línea de un colorao
 #fichero readme.md
